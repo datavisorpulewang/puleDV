@@ -1,4 +1,0 @@
-This is some really cool text
-I love it
-ls 
-edit3
